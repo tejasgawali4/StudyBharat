@@ -1,7 +1,7 @@
 <?php 
 
 include_once('header.php')
-
+  
 ?>
 <form role="form" name="AddCollegestream" method="POST">
     <div class="container jumbotron">
